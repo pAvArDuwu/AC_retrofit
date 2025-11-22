@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Volvemos a la Paleta Museo Moderno -->
+    <color name="primary">#1A237E</color> <!-- Azul profundo -->
+    <color name="primary_variant">#000051</color>
+    <color name="secondary">#FFC107</color> <!-- Ámbar para acciones -->
+    <color name="secondary_variant">#FF6F00</color>
+    
+    <color name="background_light">#F5F5F5</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <color name="card_background">#FFFFFF</color>
+</resources>
